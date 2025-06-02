@@ -1,3 +1,0 @@
-# Mandacaru
-
-Teste.
